@@ -1,4 +1,4 @@
--- Salutions --
+-- Les salutions --
 
 Bienvenue!
 Hello!
