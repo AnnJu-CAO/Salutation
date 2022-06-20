@@ -1,5 +1,7 @@
 -- Les salutions --
 
-Bienvenue!
+- Langues diverses-
+
+Allo!
 Hello!
 Hola!
